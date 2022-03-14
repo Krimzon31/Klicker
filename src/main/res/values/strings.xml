@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">Klicker</string>
-    <string name="txt_students">количество дней</string>
-    <string name="btn_students">добавить день</string>
-</resources>
